@@ -1,0 +1,10 @@
+{
+    "name": "migspace",
+    "author": "Miguel V. Mesquita",
+    "main": "index.ts",
+    "license": "CC0-1.0",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {},
+    "bin": ""
+}
